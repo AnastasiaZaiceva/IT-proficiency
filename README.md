@@ -21,4 +21,4 @@ On the 2nd page once can find the following info:
 - [ ] in my PGAdmin, create more complex tables, fill them in with data and create multiple-line quieries to deep dive
 - [ ] do SQL tasks on [LeetCode](https://leetcode.com/tag/database/) 
 
-> **Important❗**: This ReadMe file is being written via *Visual Studio Code* and merged with GitHub *Pull requests*.
+> **Important ❗**: This ReadMe file is being written via *Visual Studio Code* and merged with GitHub *Pull requests*.
