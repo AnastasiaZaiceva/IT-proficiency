@@ -1,1 +1,2 @@
 # IT-proficiency
+This repository is created for me to learn SQL. Besides the *Media* folder, I'm creating my own [**Wiki pages**](https://github.com/AnastasiaZaiceva/IT-proficiency/wiki) to put all the necessary info there. 
