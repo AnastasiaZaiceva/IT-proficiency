@@ -23,4 +23,4 @@ On the 2nd page once can find the following info:
 
 > **Important ❗**: This ReadMe file is being written via *Visual Studio Code* and merged with GitHub *Pull requests*.
 
-:blush
+😊
