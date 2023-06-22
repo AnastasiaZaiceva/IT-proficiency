@@ -13,3 +13,12 @@ On the 2nd page once can find the following info:
 - [x] Info about NULL values
 - [x] Regular expressions
 - [x] Aliases
+
+> **Attention**: The Wiki pages don't reflect the complete information on the mentioned subjects. They're constanltly being improved and contributed to. 
+
+## To be done:
+- [] refresh SQL knowledge
+- [] in my PGAdmin, create more complex tables, fill them in with data and create multiple-line quieries to deep dive
+- [] do SQL tasks on [LeetCode](https://leetcode.com/tag/database/) 
+
+>**Important**: This ReadMe file is being written via *Visual Studio Code* and merged with GitHub *Pull requests*.
