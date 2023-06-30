@@ -5,7 +5,7 @@ On the 1st page the following topics are described:
 - [x] Non-relational databases
 - [x] Data types
 
-On the 2nd page once can find the following info:
+On the 2nd page one can find the following info:
 - [x] Main SQL statements and operations
 - [x] Constraints
 - [x] Stored procedures
